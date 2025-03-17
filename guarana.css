@@ -8,7 +8,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background:linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#CF2425 );
+    background:linear-gradient(#1c5300, #4bcc01 50%,#1c5300 );
 }
 
 header, footer{
@@ -62,7 +62,7 @@ main{
 
 .content-text{
     position: absolute;
-    color: #FFFFFF;
+    color: black;
     font-size: 2.5rem;
     width: 240px;
     transform: translateX(-100%);
@@ -108,7 +108,10 @@ footer div{
     footer {
         padding: 0px 25px;
     }
+
 }
-.logo-guarana-button{
-    max-width: 5%;
+
+.logo-coca-button{
+    max-width: 100px;
 }
+
