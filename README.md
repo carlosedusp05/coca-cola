@@ -12,3 +12,6 @@ Projeto coca cola usando HTML e CSS, desenvolvido durante a disciplina de Lingua
 * CSS
 * git
 & github
+
+## Autor
+[Carlos Eduardo](https://www.linkedin.com/in/carlos-eduardo-silva-pereira-a2413b353/)
